@@ -69,6 +69,7 @@ namespace BubbbleSortArray
                 }
             }
         }
+
         static void Main(string[] args)
         {
             // Creating the object of the BubbleSort class
